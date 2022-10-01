@@ -1,5 +1,5 @@
 # NodeJs-Notes
-Programmers use this stack to develop web apps.They also use it to develop mobile apps.
+Programmers use this stack to develop web apps. They also use it to develop mobile apps.
 
 1. There are two popular stacks in full stack developement which is MEAN and MERN.
 2. MEAN is a highly popular technology stack, and it’s a full-stack. 
