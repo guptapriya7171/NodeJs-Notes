@@ -11,4 +11,6 @@ Visual Studio Documentation : https://code.visualstudio.com/docs
 Node js documentation: https://nodejs.org/docs/latest/api/process.html
 
 <h2>Demonstrated : </h2> 
-<h4>1.process.agrv : </h4> This command returns an argument of a command line while launching a node js application. It's basically read the file of the project.
+<h4>1. process.agrv : </h4> This command returns an argument of a command line while launching a node js application. It's basically read the file of the project.
+<h4>1. process.agrv.slice(2) : </h4> This command will skip the amount of arguments present inside of a javascript file.
+<h4>1. parseInt() : </h4> Convert string to an integer.
