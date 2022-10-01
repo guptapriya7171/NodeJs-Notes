@@ -9,3 +9,6 @@ Programmers use this stack to develop web apps.They also use it to develop mobil
 Visual Studio Documentation : https://code.visualstudio.com/docs 
 
 Node js documentation: https://nodejs.org/docs/latest/api/process.html
+
+Demonstrated :  
+<h4>process.agrv : </h4> This command returns an argument of a command line while launching a node js application. It's basically read the file of the project.
