@@ -1,0 +1,42 @@
+1. Web server: The term web server can refer to either the hardware (the computer)
+or the software (the computer application) that helps to deliver web
+content that can be accessed through the Internet.
+A Web server is a program that uses HTTP (Hypertext Transfer
+Protocol) to serve the files that form Web pages to users, in response
+to their requests, which are forwarded by their computers' HTTP
+clients. Dedicated computers and appliances may be referred to as
+Web servers as well.
+.
+
+                          
+                            
+|-----|      |-----|        |-----|                |-----|
+Browser       Proxy     Load Balancer            Database Server
+
+Load Balancer
+A load balancer is a device that distributes network or application
+traffic across a cluster of servers. Load balancing improves
+responsiveness and increases availability of applications.
+A load balancer sits between the client and the server farm accepting
+incoming network and application traffic and distributing the traffic
+across multiple backend servers using various methods such as
+Round Robin.
+
+Application Server
+An application server is a type of server designed to install, operate
+and host applications and associated services for end users, IT
+services and organizations. It facilitates the hosting and delivery of
+high-end consumer or business applications
+You can also explore the following blog –
+https://medium.com/coffeetechandme/three-tier-architecture-thebeginning-2d2f6063fa1e
+
+DATABASE MANAGEMENT SYSTEM
+Database management systems (DBMSs) are specially designed
+software applications that interact with the user, other applications,
+and the database itself to capture and analyse data. A general purpose DBMS is a software system designed to allow the definition,
+creation, querying, update, and administration of databases.
+You can also explore the following blog –
+https://medium.com/omarelgabrys-blog/database-introductionpart-1-4844fada1fb0
+
+
+
