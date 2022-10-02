@@ -7,6 +7,7 @@ Programmers use this stack to develop web apps. They also use it to develop mobi
 3. MERN is another open-source technology stack, and you can categorize this too as full-stack. The abbreviation MERN stands for MongoDB-Express.js-React-Node.js, and you can create web and hybrid mobile apps with it.<br/>
 4. Module: Module is a set of library or reusable code.
 5. npm init - Helps to create a server and provide a structure to the project. Hence make a required configuration.
+6. fs - fs stand for file system. It's a module used to read and write file
 
 
 Visual Studio Documentation : https://code.visualstudio.com/docs <br/>
