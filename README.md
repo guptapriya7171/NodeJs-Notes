@@ -16,7 +16,8 @@ Programmers use this stack to develop web apps. They also use it to develop mobi
    Both req and res are made available to us by the Express framework.
 10. Port keyword allows you to dynamically set the listening port using what are called "environment variables".
 11. writeHead() asynchronous inbuild function to read a file.
-12. readfile() reads data from the specified file or input/output (I/O) device
+12. readfile() reads data from the specified file or input/output (I/O) device.
+13. nodemon <em>filename</em> helps to run a file in nodemon server.
 
 # Documentation Links
 Visual Studio Documentation : https://code.visualstudio.com/docs <br/>
