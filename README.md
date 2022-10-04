@@ -20,6 +20,9 @@ Programmers use this stack to develop web apps. They also use it to develop mobi
 12. readfile() reads data from the specified file or input/output (I/O) device.
 13. nodemon <em>filename</em> helps to run a file in nodemon server.
 
+## Solution of a Problem Occured
+Link: https://stackoverflow.com/questions/45866533/npm-install-not-creating-a-new-package-lock-json
+
 # Documentation Links
 Visual Studio Documentation : https://code.visualstudio.com/docs <br/>
 Node js documentation: https://nodejs.org/docs/latest/api/process.html <br/>
