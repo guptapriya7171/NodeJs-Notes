@@ -42,3 +42,5 @@ Project Assigned: https://ninjasfiles.s3.amazonaws.com/0000000000002059.png
 <h4>1. process.agrv : </h4> This command returns an argument of a command line while launching a node js application. It's basically read the file of the project.
 <h4>2. process.agrv.slice(2) : </h4> This command will skip the amount of arguments present inside of a javascript file.
 <h4>3. parseInt() : </h4> Convert string to an integer.
+
+//Last topic covered: My Express App : a List of contacts
