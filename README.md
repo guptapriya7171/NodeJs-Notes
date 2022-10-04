@@ -26,7 +26,8 @@ Programmers use this stack to develop web apps. They also use it to develop mobi
 15. MVC, MVP, and MVVM are three popular design patterns in software development. MVC is one of the most frequently used industry-standard web development frameworks to create scalable and extensible projects.
 16. The MVC (Model-View-Controller) is an architectural pattern that separates an application into three main logical components: the model, the view, and the controller. Each of these components are built to handle specific development aspects of an application. 
 17. Express is a framework so it's a package or a set of library. And the code to install the express framework is given as <b>npm install express</b> or  <b>npm install express --save</b>. And you will receive node_modules folder within your application.
-
+18. To fireup an express, we need to run a code of express keyword in our main file :const express = require("express"); and also a port.
+19. 
 ## Solution of a Problem Occured
 Link: https://stackoverflow.com/questions/45866533/npm-install-not-creating-a-new-package-lock-json
 
