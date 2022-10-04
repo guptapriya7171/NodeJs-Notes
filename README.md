@@ -16,7 +16,7 @@ Programmers use this stack to develop web apps. They also use it to develop mobi
    It has a callback function (req, res) that listen to the incoming request req object and respond accordingly using res response object.
    Both req and res are made available to us by the Express framework.
 10. Port keyword allows you to dynamically set the listening port using what are called "environment variables".
-11. writeHead() asynchronous inbuild function to read a file.
+11. The response.writeHead() (Added in v1..0) property is an inbuilt property of the ‘http’ module which sends a response header to the request.
 12. readfile() reads data from the specified file or input/output (I/O) device.
 13. nodemon <em>filename</em> helps to run a file in nodemon server.
 14. A web framework (WF) or web application framework (WAF) is a software framework that is designed to support the development of web applications including web services, web resources, and web APIs. For example, many web frameworks provide libraries for database access, templating frameworks, and session management, and they often promote code reuse. The following image shows the most used web frameworks among developers worldwide, as of 2022
