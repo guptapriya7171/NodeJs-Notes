@@ -23,12 +23,17 @@ Programmers use this stack to develop web apps. They also use it to develop mobi
   
 ![FrameworksImg](https://user-images.githubusercontent.com/96413187/193753936-bf883bbf-62ba-4497-a974-fa2f606182dd.PNG)
 
+15. MVC, MVP, and MVVM are three popular design patterns in software development. MVC is one of the most frequently used industry-standard web development frameworks to create scalable and extensible projects.
+16. The MVC (Model-View-Controller) is an architectural pattern that separates an application into three main logical components: the model, the view, and the controller. Each of these components are built to handle specific development aspects of an application. 
+
 ## Solution of a Problem Occured
 Link: https://stackoverflow.com/questions/45866533/npm-install-not-creating-a-new-package-lock-json
 
 # Documentation Links
 Visual Studio Documentation : https://code.visualstudio.com/docs <br/>
 Node js documentation: https://nodejs.org/docs/latest/api/process.html <br/>
+Frameworks Design Explaination: https://medium.com/@ankit.sinhal/mvc-mvp-and-mvvm-design-pattern-6e169567bbad
+MVC Framework Documentation Link: https://www.freecodecamp.org/news/simplified-explanation-to-mvc-5d307796df30<br/>
 Project Assigned: https://ninjasfiles.s3.amazonaws.com/0000000000002059.png
 
 <h2>Demonstrated : </h2> 
