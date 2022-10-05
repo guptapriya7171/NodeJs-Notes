@@ -37,11 +37,12 @@ Programmers use this stack to develop web apps. They also use it to develop mobi
 25. Middleware functions are functions that have access to therequest object (req), the response object (res), and the next function in the application’s request response cycle. The next function is a function in the Express router which, when invoked, executes the middleware succeeding the current middleware.
       Code : app.use(express.urlencoded()); & Code: app.use(function(req,res,next){});
 26. Middleware functions can perform the following tasks:
-   ⚫ Execute any code.
-   ⚫ Make changes to the request and the response objects.
-   ⚫ End the request-response cycle.
-   ⚫ Call the next middleware in the stack.
-
+   <ul>
+   <li> Execute any code.</li>
+   <li> Make changes to the request and the response objects.</li>
+   <li> End the request-response cycle.</li>
+   <li> Call the next middleware in the stack.</li>
+</ul>
 ## Solution of a Problem Occured
 Link: https://stackoverflow.com/questions/45866533/npm-install-not-creating-a-new-package-lock-json
 
