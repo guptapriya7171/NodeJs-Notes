@@ -43,7 +43,8 @@ Programmers use this stack to develop web apps. They also use it to develop mobi
    <li> End the request-response cycle.</li>
    <li> Call the next middleware in the stack.</li>
 </ul>
-27. To use static files in the express framework, we can type app.use(express.static(<em>FolderName</em>);
+27. To use static files in the express framework, we can type app.use(express.static(<em>staticfolderName</em>);<br/>
+                                                                                                              
 ## Solution of a Problem Occured
 Link: https://stackoverflow.com/questions/45866533/npm-install-not-creating-a-new-package-lock-json
 
