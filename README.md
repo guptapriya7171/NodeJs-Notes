@@ -35,7 +35,7 @@ Programmers use this stack to develop web apps. They also use it to develop mobi
 23. __dirname displays the directory from which the server was started inside of a terminal.
 24.  One of the keyword to send a variable value to view from a server is a locals.
 25.  Middleware controls the request and response functions so it's bascially help in preprocessing the data and turns the data into a key value pair.
-      Code : app.use(express.urlencoded());
+      Code : app.use(express.urlencoded()); & Code: app.use(function(req,res,next){});
 
 ## Solution of a Problem Occured
 Link: https://stackoverflow.com/questions/45866533/npm-install-not-creating-a-new-package-lock-json
