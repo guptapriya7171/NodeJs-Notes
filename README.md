@@ -34,8 +34,13 @@ Programmers use this stack to develop web apps. They also use it to develop mobi
 22. $ npm install ejs is the command to install ejs. Then app.set() to set the view engine and path.
 23. __dirname displays the directory from which the server was started inside of a terminal.
 24.  One of the keyword to send a variable value to view from a server is a locals.
-25.  Middleware functions are functions that have access to therequest object (req), the response object (res), and the next function in the application’s request response cycle. The next function is a function in the Express router which, when invoked, executes the middleware succeeding the current middleware.
+25. Middleware functions are functions that have access to therequest object (req), the response object (res), and the next function in the application’s request response cycle. The next function is a function in the Express router which, when invoked, executes the middleware succeeding the current middleware.
       Code : app.use(express.urlencoded()); & Code: app.use(function(req,res,next){});
+26. Middleware functions can perform the following tasks:
+   ⚫ Execute any code.
+   ⚫ Make changes to the request and the response objects.
+   ⚫ End the request-response cycle.
+   ⚫ Call the next middleware in the stack.
 
 ## Solution of a Problem Occured
 Link: https://stackoverflow.com/questions/45866533/npm-install-not-creating-a-new-package-lock-json
@@ -47,6 +52,7 @@ Frameworks Design Explaination: https://medium.com/@ankit.sinhal/mvc-mvp-and-mvv
 MVC Framework Documentation Link: https://www.freecodecamp.org/news/simplified-explanation-to-mvc-5d307796df30<br/>
 Project Assigned: https://ninjasfiles.s3.amazonaws.com/0000000000002059.png
 EJS Docs: https://ejs.co/
+Middleware Documentation Link : https://expressjs.com/en/guide/using-middleware.html
 
 <h2>Demonstrated : </h2> 
 <h4>1. process.agrv : </h4> This command returns an argument of a command line while launching a node js application. It's basically read the file of the project.
