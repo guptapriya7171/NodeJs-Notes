@@ -41,6 +41,7 @@ Node js documentation: https://nodejs.org/docs/latest/api/process.html <br/>
 Frameworks Design Explaination: https://medium.com/@ankit.sinhal/mvc-mvp-and-mvvm-design-pattern-6e169567bbad
 MVC Framework Documentation Link: https://www.freecodecamp.org/news/simplified-explanation-to-mvc-5d307796df30<br/>
 Project Assigned: https://ninjasfiles.s3.amazonaws.com/0000000000002059.png
+EJS Docs: https://ejs.co/
 
 <h2>Demonstrated : </h2> 
 <h4>1. process.agrv : </h4> This command returns an argument of a command line while launching a node js application. It's basically read the file of the project.
