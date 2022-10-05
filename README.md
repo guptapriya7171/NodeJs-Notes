@@ -34,8 +34,8 @@ Programmers use this stack to develop web apps. They also use it to develop mobi
 22. $ npm install ejs is the command to install ejs. Then app.set() to set the view engine and path.
 23. __dirname displays the directory from which the server was started inside of a terminal.
 24.  One of the keyword to send a variable value to view from a server is a locals.
-25.  Middleware controls the input and output functions so it's bascially help in preprocessing the data and turns the data into a key value pair.
-      app.use(express.urlencoded());
+25.  Middleware controls the request and response functions so it's bascially help in preprocessing the data and turns the data into a key value pair.
+      Code : app.use(express.urlencoded());
 
 ## Solution of a Problem Occured
 Link: https://stackoverflow.com/questions/45866533/npm-install-not-creating-a-new-package-lock-json
