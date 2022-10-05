@@ -28,6 +28,9 @@ Programmers use this stack to develop web apps. They also use it to develop mobi
 17. Express is a framework so it's a package or a set of library. And the code to install the express framework is given as <b>npm install express</b> or  <b>npm install express --save</b>. And you will receive node_modules folder within your application.
 18. To fireup an express, we need to run a code of express keyword in our main file :const express = require("express"); and also a port.
 19. 'utf8' is the default encoding and decoding standardization in an express.
+20. A <b>template engine</b> enables you to use static template files in your application. At runtime, the template engine replaces variables in a template file with actual values, and transforms the template into an HTML file sent to the client. This approach makes it easier to design an HTML page.
+21. Some popular template engines that work with Express are Pug, Mustache, and EJS. The Express application generator uses Jade as its default, but it also supports several others.
+
 ## Solution of a Problem Occured
 Link: https://stackoverflow.com/questions/45866533/npm-install-not-creating-a-new-package-lock-json
 
