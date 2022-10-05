@@ -31,7 +31,7 @@ Programmers use this stack to develop web apps. They also use it to develop mobi
 19. 'utf8' is the default encoding and decoding standardization in an express.
 20. A <b>template engine</b> enables you to use static template files in your application. At runtime, the template engine replaces variables in a template file with actual values, and transforms the template into an HTML file sent to the client. This approach makes it easier to design an HTML page.
 21. Some popular template engines that work with Express are Pug, Mustache, and EJS. The Express application generator uses Jade as its default, but it also supports several others.
-22. __dirname displays the directory from which the server was started.
+22. __dirname displays the directory from which the server was started inside of a terminal.
 
 ## Solution of a Problem Occured
 Link: https://stackoverflow.com/questions/45866533/npm-install-not-creating-a-new-package-lock-json
