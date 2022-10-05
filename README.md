@@ -21,6 +21,7 @@ Programmers use this stack to develop web apps. They also use it to develop mobi
 13. nodemon <em>filename</em> helps to run a file in nodemon server.
 14. A web framework (WF) or web application framework (WAF) is a software framework that is designed to support the development of web applications including web services, web resources, and web APIs. For example, many web frameworks provide libraries for database access, templating frameworks, and session management, and they often promote code reuse. The following image shows the most used web frameworks among developers worldwide, as of 2022.
 15. During running your command --save, this will saves all the files but it was needed in the previous version right now it's automatically saves all the files.
+16. __dirname displays the directory from which the server was started.
   
 ![FrameworksImg](https://user-images.githubusercontent.com/96413187/193753936-bf883bbf-62ba-4497-a974-fa2f606182dd.PNG)
 
