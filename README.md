@@ -48,6 +48,8 @@ Programmers use this stack to develop web apps. They also use it to develop mobi
     It usage method could be change in future due to version updation.
 29. We can pass values through a specific action using string params and query strings.
      String Params : : , Query Params : ?
+30. Database helps to store and manipulate the data of any application. Database are of two types SQL and NoSQL.
+    SQL represents records in the form of tables while NoSQL represents data in the form JSON syntax or any other files.
                                                                                                               
 ## Solution of a Problem Occured
 Link: https://stackoverflow.com/questions/45866533/npm-install-not-creating-a-new-package-lock-json
