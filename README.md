@@ -54,9 +54,9 @@ Programmers use this stack to develop web apps. They also use it to develop mobi
     MEAN stands for MongoDB, Express, Angular, and Node while MERN stands for MongoDB Express Angular Node.
 ## STEPS<br/>
 1. Install MongoDB & check.<br/>
-2. Install Robo3T.<br/><br/>
+2. Install Robo3T.<br/>
 3. Mongoose(install).<br/>
-4. Setup Config.<br/><br/>
+4. Setup Config.<br/>
 5. Run server & test.<br/>
                                                                                                               
 ## Solution of a Problem Occured
