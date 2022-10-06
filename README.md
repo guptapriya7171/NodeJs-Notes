@@ -46,6 +46,8 @@ Programmers use this stack to develop web apps. They also use it to develop mobi
 27. To use static files in the express framework, we can type app.use(express.static(<em>staticfolderName</em>);<br/>
 28. Font Awesome website includes bundles of icons to use it first we need to double click at the kit and later on add the shown link on the page of the application.
     It usage method could be change in future due to version updation.
+29. We can pass values through a specific action using string params and query strings.
+     String Params : : , Query Params : ?
                                                                                                               
 ## Solution of a Problem Occured
 Link: https://stackoverflow.com/questions/45866533/npm-install-not-creating-a-new-package-lock-json
