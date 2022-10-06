@@ -52,12 +52,12 @@ Programmers use this stack to develop web apps. They also use it to develop mobi
     SQL represents records in the form of tables while NoSQL represents data in the form JSON syntax or any other files.
 31. Mongodb is the popular database used with nodejs for storing the databases. It has two stacks which is MEAN and MERN stacks.
     MEAN stands for MongoDB, Express, Angular, and Node while MERN stands for MongoDB Express Angular Node.
-## STEPS
-1. Install MongoDB & check.
-2. Install Robo3T.
-3. Mongoose(install).
-4. Setup Config.
-5. Run server & test.
+## STEPS<br/>
+1. Install MongoDB & check.<br/>
+2. Install Robo3T.<br/><br/>
+3. Mongoose(install).<br/>
+4. Setup Config.<br/><br/>
+5. Run server & test.<br/>
                                                                                                               
 ## Solution of a Problem Occured
 Link: https://stackoverflow.com/questions/45866533/npm-install-not-creating-a-new-package-lock-json
