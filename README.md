@@ -50,6 +50,8 @@ Programmers use this stack to develop web apps. They also use it to develop mobi
      String Params : : , Query Params : ?<br/>
 30. Database helps to store and manipulate the data of an application. Database are of two types SQL and NoSQL.<br/>
     SQL represents records in the form of tables while NoSQL represents data in the form JSON syntax or any other files.
+31. Mongodb is the popular database used with nodejs for storing the databases. It has two stacks which is MEAN and MERN stacks.
+    MEAN stands for MongoDB, Express, Angular, and Node while MERN stands for MongoDB Express Angular Node.
                                                                                                               
 ## Solution of a Problem Occured
 Link: https://stackoverflow.com/questions/45866533/npm-install-not-creating-a-new-package-lock-json
