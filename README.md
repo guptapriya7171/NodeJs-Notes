@@ -45,10 +45,10 @@ Programmers use this stack to develop web apps. They also use it to develop mobi
 </ul>
 27. To use static files in the express framework, we can type app.use(express.static(<em>staticfolderName</em>);<br/>
 28. Font Awesome website includes bundles of icons to use it first we need to double click at the kit and later on add the shown link on the page of the application.
-    It usage method could be change in future due to version updation.
+    It usage method could be change in future due to version updation.<br/>
 29. We can pass values through a specific action using string params and query strings.
-     String Params : : , Query Params : ?
-30. Database helps to store and manipulate the data of any application. Database are of two types SQL and NoSQL.
+     String Params : : , Query Params : ?<br/>
+30. Database helps to store and manipulate the data of any application. Database are of two types SQL and NoSQL.<br/>
     SQL represents records in the form of tables while NoSQL represents data in the form JSON syntax or any other files.
                                                                                                               
 ## Solution of a Problem Occured
