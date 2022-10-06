@@ -65,3 +65,13 @@ Middleware Documentation Link : https://expressjs.com/en/guide/using-middleware.
 <h4>3. parseInt() : </h4> Convert string to an integer.
 
 //Last topic covered: My Express App : a List of contacts
+
+## Steps Followed
+1. Created an index.js file.
+2.  Setup the project by typing:<b> npm init</b>.
+3.  Install express : <b> npm install express</b>.
+4.  Start the server
+5.  Send data from server to html file so install ejs as view engine: 
+    npm install ejs
+6.  Specify the path like this app.set('views', path.join(__dirname, 'views'));
+7.  Create all needed static files and use it app.use(express.static('assets'));
