@@ -67,7 +67,7 @@ Visual Studio Documentation : https://code.visualstudio.com/docs <br/>
 Node js documentation: https://nodejs.org/docs/latest/api/process.html <br/>
 Frameworks Design Explaination: https://medium.com/@ankit.sinhal/mvc-mvp-and-mvvm-design-pattern-6e169567bbad
 MVC Framework Documentation Link: https://www.freecodecamp.org/news/simplified-explanation-to-mvc-5d307796df30<br/>
-Project Assigned: https://ninjasfiles.s3.amazonaws.com/0000000000002059.png
+Project Assigned: https://ninjasfiles.s3.amazonaws.com/0000000000002059.png, Blog, Expense Manager.
 EJS Docs: https://ejs.co/
 Middleware Documentation Link : https://expressjs.com/en/guide/using-middleware.html
 
@@ -80,10 +80,12 @@ Middleware Documentation Link : https://expressjs.com/en/guide/using-middleware.
 
 ## Steps Followed
 1. Created an index.js file.
-2.  Setup the project by typing:<b> npm init</b>.
-3.  Install express : <b> npm install express</b>.
-4.  Start the server
-5.  Send data from server to html file so install ejs as view engine: 
+2. Setup the project by typing:<b> npm init</b>.
+3. Install express : <b> npm install express</b>.
+4. Start the server
+5. Send data from server to html file so install ejs as view engine: 
     npm install ejs
-6.  Specify the path like this app.set('views', path.join(__dirname, 'views'));
-7.  Create all needed static files and use it app.use(express.static('assets'));
+6. Specify the path like this app.set('views', path.join(__dirname, 'views'));
+7. Create all needed static files and use it app.use(express.static('assets'));
+8. For posting and fetching data, we can use http requsts. 
+9. Then create a dynamic database by installing Mongodb, Mongoose and Robo 3T.
