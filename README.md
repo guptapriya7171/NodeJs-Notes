@@ -54,6 +54,7 @@ Programmers use this stack to develop web apps. They also use it to develop mobi
     SQL represents records in the form of tables while NoSQL represents data in the form JSON syntax or any other files.<br/>
 31. Mongodb is the popular database used with nodejs for storing the databases. It has two stacks which is MEAN and MERN stacks.<br/>
     MEAN stands for MongoDB, Express, Angular, and Node while MERN stands for MongoDB Express Angular Node.<br/>
+    
 ## STEPS<br/>
 1. Install MongoDB & check.<br/>
 2. Install Robo3T.<br/>
