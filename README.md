@@ -2,7 +2,7 @@
 Programmers use this stack to develop web apps. They also use it to develop mobile apps.
 
 ## Practically Done
-<h4> Nodejs is the runtime environment over javascrip. </h4>
+<h4> Nodejs is the runtime environment over javascript. </h4>
 1. There are two popular stacks in full stack developement which is MEAN and MERN.
 2. MEAN is a highly popular technology stack, and it’s a full-stack. 
 “MEAN” is an abbreviation and the letters stand for MongoDB, Express.js, Angular, and Node.js, respectively.
