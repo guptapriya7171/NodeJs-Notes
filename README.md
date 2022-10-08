@@ -77,7 +77,21 @@ Middleware Documentation Link : https://expressjs.com/en/guide/using-middleware.
 <h4>1. process.agrv : </h4> This command returns an argument of a command line while launching a node js application. It's basically read the file of the project.
 <h4>2. process.agrv.slice(2) : </h4> This command will skip the amount of arguments present inside of a javascript file.
 <h4>3. parseInt() : </h4> Convert string to an integer.
+<h4>4. Basic template to setup, create and listen the server:</h4>
+const http = require("http");
+const port = 1111;
 
+const server = http.createServer();
+
+server.listen(port, function(err){
+
+    if(err){
+        console.log(err);
+        return;
+    }
+    console.log("Server is up and running on port: ", port);
+});
+   
 //Last topic covered: My Express App : a List of contacts
 
 ## Steps Followed
