@@ -73,6 +73,7 @@ MVC Framework Documentation Link: https://www.freecodecamp.org/news/simplified-e
 Project Assigned: https://ninjasfiles.s3.amazonaws.com/0000000000002059.png, Blog, Expense Manager.
 EJS Docs: https://ejs.co/
 Middleware Documentation Link : https://expressjs.com/en/guide/using-middleware.html
+Font Awesome Cheatsheet: https://fontawesome.com/v5/cheatsheet
 
 <h2>Demonstrated : </h2> 
 <h4>1. process.agrv : </h4> This command returns an argument of a command line while launching a node js application. It's basically read the file of the project.
