@@ -70,10 +70,10 @@ Visual Studio Documentation : https://code.visualstudio.com/docs <br/>
 Node js documentation: https://nodejs.org/docs/latest/api/process.html <br/>
 Frameworks Design Explaination: https://medium.com/@ankit.sinhal/mvc-mvp-and-mvvm-design-pattern-6e169567bbad
 MVC Framework Documentation Link: https://www.freecodecamp.org/news/simplified-explanation-to-mvc-5d307796df30<br/>
-Project Assigned: https://ninjasfiles.s3.amazonaws.com/0000000000002059.png, Blog, Expense Manager.
-EJS Docs: https://ejs.co/
-Middleware Documentation Link : https://expressjs.com/en/guide/using-middleware.html
-Font Awesome Cheatsheet: https://fontawesome.com/v5/cheatsheet
+Project Assigned: https://ninjasfiles.s3.amazonaws.com/0000000000002059.png, Blog, Expense Manager.<br/>
+EJS Docs: https://ejs.co/<br/>
+Middleware Documentation Link : https://expressjs.com/en/guide/using-middleware.html<br/>
+Font Awesome Cheatsheet: https://fontawesome.com/v5/cheatsheet<br/>
 
 <h2>Demonstrated : </h2> 
 <h4>1. process.agrv : </h4> This command returns an argument of a command line while launching a node js application. It's basically read the file of the project.
